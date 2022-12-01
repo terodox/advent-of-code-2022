@@ -1,0 +1,26 @@
+{
+  "name": "advent-of-code-2022",
+  "version": "1.0.0",
+  "description": "My problem solution for https://adventofcode.com/2022",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terodox/advent-of-code-2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terodox/advent-of-code-2022/issues"
+  },
+  "homepage": "https://github.com/terodox/advent-of-code-2022#readme",
+  "dependencies": {
+    "@types/node": "18.11.10",
+    "@types/prompts": "2.4.1",
+    "prompts": "2.4.2",
+    "ts-node": "10.9.1",
+    "typescript": "4.9.3"
+  }
+}
